@@ -1,6 +1,5 @@
 from student_registry import Student, StudentRegistry
 
-
 def main():
     registry = StudentRegistry()
 
